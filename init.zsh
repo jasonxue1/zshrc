@@ -1,6 +1,6 @@
 source "$ZDOTDIR/environment.zsh"
 source "$ZDOTDIR/function.zsh"
-source "$ZDOTDIR/plugin.zsh"
 source "$ZDOTDIR/zinit.zsh"
+source "$ZDOTDIR/plugin.zsh"
 source "$ZDOTDIR/alias.zsh"
 source "$ZDOTDIR/theme.zsh"

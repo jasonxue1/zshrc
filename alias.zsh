@@ -1,4 +1,6 @@
-alias v="vim"
+alias v="nvim"
+alias vi="nvim"
+alias vim="nvim"
 alias python="/usr/local/bin/python3.12"
 alias python3="/usr/local/bin/python3.12"
 alias pip="/usr/local/bin/pip3.12"

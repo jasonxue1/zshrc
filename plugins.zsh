@@ -5,3 +5,5 @@ zinit light zdharma-continuum/fast-syntax-highlighting
 
 [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && source $(brew --prefix)/etc/profile.d/autojump.sh
 
+zinit ice depth=1
+zinit light jeffreytse/zsh-vi-mode

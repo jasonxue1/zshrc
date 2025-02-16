@@ -1,3 +1,626 @@
+vim .zshrc
+ls
+cd ~
+ls -a
+rm .zsh_history
+rm .zsh_sessions
+rm -rf .zsh_sessions
+ls -a
+ls .viminfo
+v .viminfo
+sudo v .viminfo
+echo $EDITOR
+echo $SHELL
+echo $NVIM_APPNAME
+echo  $PATH
+zinit self-update
+zinit self-update
+cnvim
+cnvim l
+cnvim j
+brew install zsh
+v
+sudo v .viminfo
+v
+sudo vim .viminfo
+v .viminfo
+chmod +x .viminfo
+sudo chmod +x .viminfo
+v .viminfo
+sudo chmod 644 ~/.viminfo
+v .viminfo
+v .viminfo
+cd ~/.config/zsh
+v
+ls
+v environment.zsh
+v
+\:Q
+\:q
+v
+ls -l ~/.viminfo
+sudo chown jason ~/.viminfo
+v
+v
+v
+brew install zinit
+zinit selfupdate
+brew cleanup zinit
+ls
+v plugin.zsh
+cd ~/.config
+ls
+cd zsh/
+	ls
+v plugin.zsh
+brew uninstall zinit
+brew list
+brew install zinit
+brew cleanup zinit
+bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"
+zinit self-update
+ls -a
+rm -rf .local
+zinit self-update
+v
+cd ~/.config/zsh
+vim plugin.zsh
+cat init.zsh
+cat .zshrc
+vim .zshrc
+cat .zshrc
+vim .zshrc
+mv plugin.zsh zinit.zsh
+vim init.zsh
+vim alias.zsh
+cat environment.zsh
+cnvim j
+cat environment.zsh
+echo NVIM_APPNAME
+echo $NVIM_APPNAME
+cat environment.zsh
+echo @NVIM_APPNAME
+echo $NVIM_APPNAME
+cnvim j
+echo $NVIM_APPNAME
+zinit self-update
+cd .config/zsh
+cat plugin.zsh
+cd zinit.zsh
+cat zinit.zsh
+cat init.zsh
+v init.zsh
+echo $NVIM_APPNAME
+cd .config/zsh
+cat environment.zsh
+cat function.zsh
+zinit self_update
+zinit update
+vim environment.zsh
+vim function.zsh
+v
+source init.zsh
+vim plugin.zsh
+source init.zsh
+vim .zshrc
+source init.zsh
+git init
+ssh_keygen -t ed25519 -C "jason@xuechunxi.com"
+ssh-keygen -t ed25519 -C "jason@xuechunxi.com"
+eval "$(ssh-agent -s)"\
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519\
+
+vim ~/.ssh/config
+pbcopy < ~/.ssh/id_ed25519.pub\
+
+ssh -T git@github.com\
+
+ssh -T git@github.com\
+
+ssh -T http://github.com\
+
+ssh -T git@github.com\
+
+export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897
+echo "export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897" > environment.zsh
+cat environment.zsh
+vim environment.zsh
+export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7
+export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897
+ssh -T git@github.com\
+
+source init.zsh
+git add .
+git commit -m "first"
+cat .zshrc
+ssh 
+ssh -T git@github.com
+ssh -T git@github.com
+eval "$(ssh-agent -s)"\
+ssh-add ~/.ssh/id_rsa\
+
+eval "$(ssh-agent -s)"\
+ssh-add ~/.ssh/id_ed25519\
+
+ssh -T git@github.com
+rm -rf ~/.ssh
+ssh-keygen -t ed25519 -C "jason@xuechunxi.com"
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@gitea.com
+ping github.com
+rm -rf ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "jason@xuechunxi.com"
+cat ~/.ssh/id_rsa.pub
+ssh -T git@gitea.com
+ssh -T git@github.com
+brew install git
+ssh -T git@github.com
+brew install git
+brew list
+ssh -T git@github.com
+git
+ssh -T git@github.com
+git 
+git branch
+git branch ph
+git branch -h
+git branch -m lazygit
+git branch -m main
+brew install neovim
+brew install z3
+brew install ninja
+brew install python
+brew install zsh
+where zsh
+brew install lz4
+brew install zstd
+brew install zstd
+brew cleanup
+brew install swig
+brew install  tree-sitter
+echo $EDITOR
+echo $SHELL
+echo $SHELL
+chsh -s /usr/local/bin/zsh\
+
+chsh -s /usr/local/bin/zsh\
+
+where zsh
+sudo vim etc/shell
+sudo vim etc/shells
+sudo vim /etc/shells
+chsh -s /usr/local/bin/zsh\
+
+echo $SHELL
+cd .config/zsh
+vim environment.zsh
+source init.zsh
+brew install gh\
+
+echo $SHELL
+ssh -T git@github.com
+cd Desktop
+git clone git@github.com:jasonxue1/jasonxue1.github.io
+git clone git@github.com:jasonxue1/jasonxue1.github.io.git
+cd ~/.config/zsh
+brew install exa bat
+brew install eza bat
+brew install neovim
+brew install neovim
+brew install neovim
+echo $python
+brew install python@3.12
+brew install unibilium
+brew install  msgpack
+brew install lpeg
+brew install ninja
+brew install tree-sitter
+brew install libvterm
+brew install neovim
+brew install rust
+brew install llvm
+python 
+python3 -version
+python3 --version
+brew install miniconda
+brew install python@3.12
+brew search mactex
+brew install mactex-no-gui
+sudo pip3 install z3-solver
+where python
+where python3
+/usr/bin/python3 --version
+pip3
+brew install xyz
+brew install pipx\
+pipx install z3-solver\
+
+where python3.12
+cnvim j
+brew uninstall zinit
+brew uninstall python
+brew uninstall --ignore-dependencies python
+brew install python@3.12
+python3 --version
+python3 --version
+ls
+ls -a
+rm -rf ~/.ssj
+cd .conda
+ls
+cd ..
+mv .conda/ .config
+cd .config
+ls
+ls -a
+mv .conda conda
+ls
+cd conda
+ls
+echo $NVIM_APPNAME
+echo $NVIM_APPNAME
+echo $NVIM_APPNAME
+echo $NVIM_APPNAME
+echo $NVIM_APPNAMEcd ..
+cd .
+cd ..
+cd zsh
+ls
+vim environment.zsh
+source init.zsh
+conda info
+echo $CONDARC
+vim environment.zsh
+source init.zsh
+vim alias.zsh
+source init.zsh
+pip
+pip -version
+pip --version
+cat .zshrc
+cat init.zsh
+brew install mactex-no-gui
+conda info
+mkdir rubbish
+cd rubbish
+conda init
+conda -h
+conda create -h
+conda create -n testenv 
+vim environment.zsh
+ls
+ls -a
+mkdir condatest
+cd condatest
+conda init
+conda create -n testenv 
+conda acticate test
+conda acticate testenv
+conda activate testenv
+conda init
+conda activate testenv
+where python3.12
+brew list
+brew update
+cd ~/.config/zsh
+vim environment.zsh
+vim plugin.zsh
+source init.zsh
+vim plugin.zsh
+source init.zsh
+brew install stats
+brew install mactex-no-gui
+brew install little-cms2
+HOMEBREW_CURLRC=/dev/null brew install little-cms2\
+
+cd ~/.config/zsh
+brew install autojump
+ls /usr/local/bin
+conda_init
+j zsh
+v conda.zsh
+vim init.zsh
+source init.zsh
+conda_init 
+vim conda.zsh
+j zs
+j vim
+j tex
+j zsh
+vim alias.zsh
+zsh
+vim plugin.zsh
+vim .zshrc
+vim plugin.zsh
+zsh
+zprof
+vim plugin.zsh
+vim theme.zsh
+vim .p10k.zsh
+p10k configure
+source init.zsh
+p10k configure
+j ma
+mkdir åƒ§½æƒµ°åƒ¯ƒ¸æƒ­ƒ‚
+cd åƒ§½æƒµ°åƒ¯ƒ¸æƒ­ƒ‚
+vim main.tex
+zprof
+j zsh
+vi conda.zsh
+source init.zsh
+lazygit
+cat conda.zsh
+vi ~/.bash_profile
+source init.zsh
+conda_init
+cat conda.zsh
+vi conda.zsh
+source init.zsh
+conda_init 
+cat conda.zsh
+vi conda.zsh
+source init.zsh
+conda_init
+source init.zsh
+zsh
+j zsh
+cat .zshrc
+git add .
+git commit -m "æ·»åƒªƒ€åƒ¨ƒ½å§ƒ«åƒ¦ƒ¥å®¹"
+git push
+git config --global user.email
+git config set --global user.email  "1"
+git config --global user.email
+git config set --global user.email  "103628493+jasonxue1@users.noreply.github.com"
+git config --global user.email
+103628493+jasonxue1@users.noreply.github.com
+git push
+git config --global user.email "jasonxue1@users.noreply.github.com"\
+
+git commit -m
+git commit -m 1
+git push
+git config --global user.email "jason@xuechunxi.com"\
+
+git push
+brew install jabref]
+brew install jabref
+brew install llvm --verbose
+brew install neovim
+brew install rust --verbose
+brew clean
+brew cleanup
+brew install rust --verbose
+htop
+brew install htop
+brew install hop
+brew install top
+top
+clear
+clear
+echo $CARGO_BUILD_JOBS
+export CARGO_BUILD_JOBS=4\
+
+echo $CARGO_BUILD_JOBS
+brew install neovim --verbose
+brew install neovim --verbose
+brew cleanup
+nvim
+htop
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+v
+cd .config/nvim
+v
+j zsh
+v
+source init.zsh
+conda_init
+bindkey -e
+j zsh
+v functions.zsh
+v functions.zsh
+source init.zsh
+mkcd 1
+cd ..
+rm -rf 1
+cd ~
+mkcd python
+mkcd hello_nvim
+bindkey -v
+j zsh
+v plugins.zsh
+source init.zsh
+echo $CARGO_BUILD_JOBS
+clear
+sysctl -n hw.physicalcpu\
+
+sysctl -n hw.logicalcpu\
+
+sysctl -n machdep.cpu.brand_string\
+
+system_profiler SPDisplaysDataType | grep "Chipset Model"\
+
+j vim
+j zsh
+v alias.zsh
+source init.zsh
+v
+clear
+brew install htop
+brew install tmux
+brew install bat
+brew install bat --verbose
+brew install fd ripgrep --verbose
+brew install tmux
+bat
+bat alias.zsh
+git add .
+git commit -m 1
+bat alias.zsh
+git push
+brew install eza
+brew install eza --verbose
+j hello
+cd ../..
+j tset
+j test
+ls
+cd rubbish
+ls
+cd ..
+cd cd
+ls
+bat cd
+rm cd
+j hell
+conda_init
+conda activate testenv
+v
+v
+v
+python main.py
+q
+q]
+v
+python main.py
+python main.py
+j hello
+v
+v
+v
+j nvim
+q
+j nvim
+v
+j nvim
+git add .
+git commit -m 1
+lazygit
+v
+j hello
+conda_init
+conda activate testenv
+pip install loguru
+python3 -m pip install xyz
+pip install loguru
+pip install --user loguru\
+
+conda install loguru
+v main.py
+python main.py
+conda install loguru
+python main.py
+v main.py
+where python
+j zsh
+v 
+source init.zsh
+where python
+j nvim
+cd 
+cd ~/.config/nvim
+git init
+git config --global init.defaultBranch main
+git branch -m lazygit
+git add .
+git commit -m 1
+git remote add origin https://github.com/jasonxue1/nvim.git
+git push
+git push --set-upstream origin lazygit
+python --version
+brew install npm
+brew install npm
+pip3 install certifi\
+
+pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+pip3 config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+pip3 install numpy
+cd ~/.config/pip\
+\
+
+ls
+v pip.conf
+cd ~/.config/pi
+pip3 install pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn
+python3.12 -m pip install --upgrade pip
+where python
+where python3
+where python3.12
+/usr/bin/python3 --version
+/usr/local/bin/python3.12 -v
+/usr/local/bin/python3.12 --version
+export $PATH
+python3 --version
+where python3
+pip3 install numpy
+pip3 install --upgrade certifi\
+
+where python3
+/Applications/Python\ 3.12/Install\ Certificates.command\
+
+export PATH="/usr/local/bin:$PATH"\
+
+echo $PATH
+v
+j nvim
+cd .config/nvim
+v
+cd ~/.config/nvim
+v
+clear
+echo $PATH
+pip3 install numpy
+/usr/local/bin/pip3 install numpy
+/Applications/Python\ 3.12/Install\ Certificates.command\
+
+curl https://raw.githubusercontent.com/python/cpython/main/Mac/Install%20Certificates.command -o Install\ Certificates.command\
+chmod +x Install\ Certificates.command\
+./Install\ Certificates.command\
+
+cd Install\ Certificates.command
+./Install\ Certificates.command
+brew reinstall python@3.12\
+
+brew reinstall python@3.12\
+
+brew reinstall python@3.12 --verbose
+pip3 install numpy
+brew install npm --verbose
+j nvim
+v .config/nvim
+v
+v .config/nvim
+v
+where python3
+where python3.12
+where python3.13
+where python3.9
+j nvim
+conda delete
+conda remove test
+conda env list
+conda remove testenv
+conda remove --name testenv --all
+conda create -n testenv python=3.12
+conda activate testenv
+conda_init
+echo $SHELL
+conda activate testenv
+python --version
+pip install loguru
+v
+v main.py
+v main.py
+python3 -version
+python3 --version
+where python3
+/usr/bin/pip3 install numpy
+/usr/bin/pip3 --version
+brew uninstall python3
+brew uninstall python@3.12
+brew uninstall python@3.12
+python3.12 
 where python3
 /usr/local/bin/python3 --version
 brew list
@@ -1143,594 +1766,3 @@ zathura ~/math/jinshiweikai2shi/main.pdf
 bat math/hanshubianhuan/main.tex
 v ~/.config/nvim
 /usr/local/Cellar/mupdf/1.25.4/bin/mupdf-gl ; exit;
-where mupdf
-brew list mupdf
-which mupdf
-v ~/.config/zsh/environment.zsh
-source ~/.config/zsh/init.zsh
-echo $PATH
-export PATH="/usr/local/Cellar/mupdf/1.25.4/bin:$PATH"\
-
-ls /usr/local/Cellar/mupdf/1.25.4/bin/\
-
-mupdf-gl math/test/main.pdf
-cd math/test
-v .
-mupdf
-brew list
-j test
-v .
-v .
-v .
-v .
-v .
-v ~/.config/nvim
-v .
-v .
-v .
-v .
-v .
-clear
-clear
-v .
-v .
-v .
-v ~/.config/nvim/
-v ~/.config/nvim/
-where mupdf-gl
-brew intsall xdotool
-brew install xdotool
-brew install sioyek
-brew install xdotool
-brew search lunardisplay
-v
-v ~/math/jinshiweikai2shi/
-clear
-v ~/math/jinshiweikai2shi/
-v ~/math/jinshiweikai2shi/
-clear
-j nvim
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-v
-clear
-v
-v
-v .
-v ~/rubbish/test/
-mkcd ~/rubbish/test
-vi .
-j nvim
-v .
-j zsh
-v .
-v .
-j nvim
-v .
-v .
-v .
-v .
-v .
-v
-v .
-v .
-v .
-v .
-v .
-v .
-v .
-cat ~/math/hanshubianhuan/main.tex
-brew install karabiner-elements
-v
-brew install manico
-v
-brew install thor
-brew uninstall manico
-brew install qspace
-  brew install --cask qspace-pro
-brew uninstall kitty wizterm
-brew uninstall kitty
-brew uninstall wezterm
-yarn global add neovim
-npm install -g neovim
-alacritty migrate
-alacritty migrate
-ls -a
-alacritty migrate
-where brew
-echo $PATH
-clear
-ls -l /var/dp/termcap
-echo $TERM
-export TERM=xterm-256colors
-export TERM="xterm-256colors"
-~/Desktop
-brew install cheatsheet
-curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
-clear
-v
-brew install alacritty
-j .config
-eza
-git clone https://github.com/chaozwn/alacritty.git
-cd alacritty
-v .
-cd ..
-cd alacritty
-alacritty
-alacritty -h
-alacritty --config-file
-ls
-man alacritty
-mkcd alacritty
-v .
-v .
-v .
-git init
-git add .
-git commit -m "init"
-v ../zsh
-v .
-where zsh
-alacritty migrate
-alacritty migrate
-where brew
-exit
-clear
-d
-d
-clear
-tmux
-tmux
- eza -R
-cd ..
-eza
-eza -R
-eza -T
-eza -l --total-size --git
-eza -l
-cd zsh
-eza
-eza -l
-eza -a
-man eza
-eza --long
-eza --l
-eza -l
-eza -lg
-eza -lgi
-eza -lg --icons
-eza -lg --icons --total-size
-eza -l --icons --total-size
-cd ~
-j zsh
-v alias.zsh
-v alias.zsh
-v 
-v alias.zsh
-source ~/.config/zsh/init.zsh
-cd ..
-ll
-cd ..
-ll
-ls
-ls -a
-exit
-echo $SHELL
-v ../zsh/alias.zsh
-v ../zsh/environment.zsh
-source ~/.config/zsh/init.zsh
-source ~/.config/zsh/init.zsh
-exit
-mkcd ~/.config/tmux
-v .
-cd ..
-rm -rf tmux
-git clone https://github.com/chaozwn/tmux.git
-cd tmux
-rm -rf .git
-bat .gitignore
-tmux
-bat .gitignore
-v .
-v 
-v .
-source ~/.config/zsh/init.zsh
-source ~/.config/zsh/init.zsh
-echo $PATH
-v ../zsh/environment.zsh
-source ~/.config/zsh/init.zsh
-exec zsh
-j tmux
-v .
-mv ~/Downloads/tokyonight_moon.toml ~/.config/alacritty
-j ala
-v .
-exit
-tmux --config
-exit
-tmux list
-tmux list-sessions
-tmux
-tmux
-v ~/.config/zsh/environment.zsh
-tmuz
-tmux
-tmux
-q
-q
-exit
-tmux
-cd ~/.config
-rm -rf tmux
-v zsh/environment.zsh
-source ~/.config/zsh/init.zsh
-git clone https://github.com/chaozwn/tmux.git
-cd tmux
-rm -rf .git
-ln -s ~/.config/tmux/tmux.conf ~/.tmux.conf
-tmux
-tmuz
-tmux
-tmux
-exit
-exit
-v ~/.config/tmux/tmux.conf
-v ~/.config/tmux/tmux.conf
-v ~/.config/tmux/tmux.conf
-v ~/.config/alacritty/themes.toml
-a
-tmux
-tmux ls
-tmux a -t 0
-v
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-rm -rf ~/.tmux/plugins/tpm
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-exit
-tmux
-tmux
-cd .tmux
-ls -t
-ls 
-ls -T
-v ~/.config/tmux/tmux.conf
-
-I
-v ~/.config/tmux/tmux.conf
-cd ..
-rm -rf .tmux
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-# type this in terminal if tmux 
-tmux source ~/.config/tmux/tmux.conf
-I
-v ~/.config/tmux/tmux.conf
-v
-exit
-exit
-tmux
-v
-rm -rf ~/.tmux
-tmux
-tmux
-v
-echo $TERM
-exit
-tmux
-v ~/.config/tmux/tmux.conf
-tmux
-v ~/.config/tmux/tmux.conf
-tmux source ~/.config/tmux/tmux.conf
-tmux
-tmux
-where xelatex
-j zsh
-v environment.zsh
-v
-brew install composer
-brew install php
-brew install julia
-brew install julia php
-brew install julia php composer kitty wezterm ghostty magick pstree
-brew install julia php composer kitty wezterm ghostty  pstree
-brew install julia php composer   pstree
-brew install julia php composer   pstree
-v
-brew install julia --verbose
-v ~/.config/tmux/tmux.conf
-v ~/Sites/python/hello_nvim/main.py
-v
-v
-v
-v .
-v .
-v .
-v .
-v .
-exit
-v .
-exit
-v
-v tmux.conf
-exit
-v
-v tmux.conf
-exit
-c
-clear
-v
-cd ..
-rm -rf ~/.tmux
-exit
-exit
-j zsh
-v al
-v alias.zsh
-source ~/.config/zsh/init.zsh
-ll
-v alias.zsh
-source ~/.config/zsh/init.zsh
-ll
-ll
-cd ~
-ll
-ll -a
-ls
-brew search neovim
-rm -rf */.DS
-rm -rf /*/.DS_Store
-ll
-tmux
-v .
-tmux
-v .
-j tmux
-ll
-rm -rf tokyonight
-tmux source ~/.config/tmux/tmux.conf
- v .
- v .
-tmux
-tmux source ~/.config/tmux/tmux.conf
-tmux
-tmux source ~/.config/tmux/tmux.conf
-tmux
-tmux source ~/.config/tmux/tmux.conf
-cd ..
-ll
-rm -rf tmux
-cd ~
-rm -rf .tmux
-tmux source ~/.config/tmux/tmux.conf
-tmux
-clear
-brew install baidunetdisk
-nvim
-nvim ~/.config/tmux
-v
-v ~/.config/tmux/tmux.conf
-v
-v
-v
-v
-v
-v
-v
-v
-v
-\:q
-exit
-I
-I
-tmux
-ll -a
-ls -a
-cat .tmux.conf
-rm .tmux.conf
-ls -a
-tmux
-tmux
-$tmux
-unset $tmux
-unset $TMUX
-tmux
-brew update
-brew install tencentmeeting
-brew install tencent-meeting
-v
-tmux list
-tmux list-sessions
-tmux-kill
-tmux-kill
-tmux-kill -a
-tmux-kill -a
-tmux-kill -a
-tmux-kill
-brew install neofetch
-neofetch
-tmux
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-clear
-tumx
-tmux
-tmux a 
-tmux
-tmux ls
-tmux a -t 0
-mkcd ~/.config/tmux
-v .
-v .
-v .
-tmux
-exit
-tmux
-tmux source ~/.config/tmux/tmux.conf
-tmux source ~/.config/tmux/tmux.conf
-tmux
-neofetch
-d
-curl -LO --output-dir ~/.config/alacritty https://github.com/catppuccin/alacritty/raw/main/catppuccin-latte.toml
-j ala
-v .
-j ala
-v .
-v
-exit
-v
-tmux
-v
-v .
-v .
-v .
-v .
-v .
-v .
-v .
-v .
-v .
-j tmux
-rm -rf .git
-rm -rf .git
-ll -a
-v tmux.conf
-j ala
-v alacritty.toml
-echo $TERM
-tmux source ~/.config/tmux/tmux.conf
-tmux
-v
-j ala
-v .
-v
-tmux
-exit
-neofetch
-v
-brew
-v
-git clone https://github.com/chaozwn/tmux.git ~/.config/tmux
-rm -rf ~/.config/tmux
-cd ..
-ls
-git clone https://github.com/chaozwn/tmux.git ~/.config/tmux
-echo $TERM
-v ~/.config/zsh/environment.zsh
-source ~/.config/zsh/init.zsh
-echo $TERM
-\:wq
-v
-curl -LO --output-dir ~/.config/alacritty https://github.com/catppuccin/alacritty/raw/main/catppuccin-mocha.toml
-j alac
-ls
-v alacritty.toml
-v
-tmux detach
-tmux
-tmux
-tmux
-tmux
-v .
-fzf
-tmux
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux-kill
-tmux new -s basic
-tmux -v
-tmux -V
-tmux -vv
-j .tmux
-ll
-cd plugins/tpm/tests
-ll
-./test_plugin_installation.sh
-ls ./helpers
-ls ./helpers/tpm.sh
-./helpers/tpm.sh
-chmod +x ./helpers/tpm.sh
-ll
-ll -T
-./test_plugin_clean.sh
-cd ..
-cd .
-cd ..
-cd tpm
-git pul
-git pull
-git remote -v
-git remote -v
-cd ..
-la
-ll
-cd tpm/bin
-./install_plugins
-./update_plugins
-./update_plugins all
-./clean_plugins
-./install_plugins
-./install_plugins
-./install_plugins
-./install_plugins
-cd ..
-cd ..
-ll
-cd tpm/bin
-./install_plugins
-v
-v .
-v .
-v .
-v .
-j tmux
-v .
-cd .tmux
-ll -T
-v .
-cat ~/.config/tmux/tmux.conf
-cat ~/.config/tmux/tmux.conf
-cat ~/.config/tmux/tmux.conf
-v
-v .
-v
-v .
-v .
-exit
-exit
-exit
-v
-v
-v .
-v .
-\:q
-exit
-j tmux
-exit
-exit
-j ..
-cd ..
-cd ..
-cd ..
-\:

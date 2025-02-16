@@ -7,3 +7,6 @@ zinit light zdharma-continuum/fast-syntax-highlighting
 
 zinit ice depth=1
 zinit light jeffreytse/zsh-vi-mode
+
+zinit light unixorn/fzf-zsh-plugin
+zinit light zsh-users/zsh-completions
